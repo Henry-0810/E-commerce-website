@@ -23,7 +23,7 @@ namespace E_commerce_website.Server.Controllers
 
         [HttpGet("{id}")]
 
-        public IActionResult GetById([FromRoute] int id)
+        public IActionResult GetById([FromRoute] int id) 
         {
             var order = _context.Orders.Find(id);
             if (order == null)
