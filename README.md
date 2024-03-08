@@ -51,7 +51,7 @@ To run the project locally, follow these steps:
 - **Responsive Design**: Ensure the website is optimized for various devices, including desktops, tablets, and smartphones.
 
 ## Contributors
-- [Henry Pan][(https://github.com/Henry-0810)]
+- ([Henry Pan][https://github.com/Henry-0810])
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
